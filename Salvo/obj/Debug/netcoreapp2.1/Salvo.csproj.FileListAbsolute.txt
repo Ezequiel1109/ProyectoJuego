@@ -1,0 +1,105 @@
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+C:\Users\victorcoronado\source\repos\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csprojAssemblyReference.cache
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+C:\Users\david\Downloads\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csprojAssemblyReference.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+C:\Users\david\Downloads\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.deps.json
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.json
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.runtimeconfig.dev.json
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.dll
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\bin\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csprojAssemblyReference.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.AssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorAssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.input.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.TagHelpers.output.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorCoreGenerate.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.RazorTargetAssemblyInfo.cs
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.Views.pdb
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.dll
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.pdb
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.genruntimeconfig.cache
+C:\Users\david\OneDrive\Escritorio\.Net Academy Accenture\Salvo\Salvo\obj\Debug\netcoreapp2.1\Salvo.csproj.CopyComplete
